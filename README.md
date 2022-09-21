@@ -4,6 +4,12 @@
 
 <img src= "oneeye.png" width='300'/>
 
+About: This exersise was a lesson in learning on mouse movement commands to track movement. 
+
+To setup: 
+1. Download the oneeye.png file
+2. utlizie the index file to run and the eyes file to do styling. 
+
 MIT License
 
 Copyright (c) 2020 John Williams
